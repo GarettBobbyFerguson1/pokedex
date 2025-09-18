@@ -5,7 +5,7 @@ from PyQt5.QtWidgets import (QApplication ,     QWidget   , QLabel
                             , QGraphicsPixmapItem
                             )
 from PyQt5.QtGui import QPixmap, QFont ,QFontDatabase
-from PyQt5.QtCore import Qt
+from PyQt5.QtCore import Qt, QSize
 
 class pokemonguesser(QWidget):
     def __init__(self):
@@ -19,6 +19,7 @@ class pokemonguesser(QWidget):
         self.pokemon_logo.setPixmap(scaled_pixmap)
         self.pokemon_button = QPushButton('Get Data',self)
         self.pokemon_description = QLabel(self)
+        self.setFixedSize(QSize(800,800))
         self.initUI()
         
     def initUI(self):
