@@ -17,3 +17,7 @@ I got the idea to incorporate a pokemon encyclopedia with a GUI. This is my firs
 ##future enhancements
 I will like to improve upon the visual look of the GUI . I will also like to add a image of the pokemon next to the description for a better overall user experience. Maybe add sound effects of each pokemon .
 
+<img width="584" height="606" alt="Screenshot 2025-09-18 200620" src="https://github.com/user-attachments/assets/38796225-b29a-47a6-aa18-feec6f5bc446" />
+
+<img width="1202" height="712" alt="Screenshot 2025-09-18 200702" src="https://github.com/user-attachments/assets/7556fcd1-4a26-4059-99e8-63091cc499ae" />
+
